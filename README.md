@@ -3,10 +3,11 @@
 A flutter mobile application that functions like of a profile page. Data does not saved to a database, but the application function as expected until restarted.
 
 Features:
-_ Provider as State Management
-_ Edit Profile Photo via Camera or Gallery
-_ Masked Phone Texfield
-_ iOS Page Navigation
+
+1. Provider as State Management
+2. Edit Profile Photo via Camera or Gallery
+3. Masked Phone Texfield
+4. iOS Page Navigation
 
 ## Getting Started
 
