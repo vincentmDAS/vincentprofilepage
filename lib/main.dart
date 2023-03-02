@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'editprofile/models/profile.dart';
-import 'editprofile/screens/home_profile_screen.dart';
+import 'edit_profile/models/profile.dart';
+import 'edit_profile/screens/home_profile_screen.dart';
 
 void main() {
   runApp(MultiProvider(providers: [
