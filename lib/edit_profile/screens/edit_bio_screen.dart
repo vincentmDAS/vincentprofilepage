@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:vincentprofilepage/edit_profile/widgets/edit_title_textfield.dart';
 
 import '../models/profile.dart';
+import '../widgets/edit_title_textfield.dart';
 
 class EditBioScreen extends StatelessWidget {
   const EditBioScreen({super.key});

@@ -1,12 +1,12 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:vincentprofilepage/edit_profile/screens/edit_bio_screen.dart';
-import 'package:vincentprofilepage/edit_profile/screens/edit_email_screen.dart';
 
 import '../common/constant.dart';
 import '../models/profile.dart';
 import '../widgets/home_textfield.dart';
+import 'edit_bio_screen.dart';
+import 'edit_email_screen.dart';
 import 'edit_name_screen.dart';
 import 'edit_phone_screen.dart';
 import 'edit_photo_screen.dart';
